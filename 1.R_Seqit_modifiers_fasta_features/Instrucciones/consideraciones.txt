@@ -1,0 +1,8 @@
+
+El archivo excel debe tener la estructura especificada en el excel.
+
+No deben haber tildes (´), ni todo esto: ("),('),(`),(ñ).
+Lo mejor es que las secuencias se llamen "SeqX_dualcode"
+El campo de Country debe ser: "Spain: Todo lo demas que se quiera" por ejemplo: Spain : Presa de Los Hornos (Tejeda) Canary Island, Macaronesia script: SPAIN
+Las filas deben tener 5 tabulaciones, no + no -, para ver si es así comprueba el script propuesto. (se llama Script_contaje_tabulado).
+Asegurate que haya las mismas secuencias en los tres archivos: puedes comprobarlos con el script propuesto ( se llama Script_contaje_seq).
