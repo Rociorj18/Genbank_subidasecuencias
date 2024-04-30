@@ -8,4 +8,6 @@ Está carpeta está destinada a preparar el input "data" (hay dos inputs: data y
 
 ################## PASOS
 Los pasos serían coger los datos del 1, rellenar el 2 y modificarlo con el scrips de "modificar_localitation" para que quede como el 3. Pasar el 3 a txt con formato UTF-8 y tras esto, pasarlo por el script de "preparacion_tabulado" para
-detectar anomalia y modificarla. Una vez todo ok. Lo juntariamos en R junto con el fasta para correr los scripts pertinentes (los seqit). 
+detectar anomalia y modificarla. EL TXT DEBE LLAMARSE DATA. Una vez todo ok. Lo juntariamos en R junto con el fasta para correr los scripts pertinentes (los seqit). 
+
+IMPORTANTE: TXT DEBE LLAMARSE DATA. 
