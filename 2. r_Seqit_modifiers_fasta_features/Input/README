@@ -1,0 +1,10 @@
+Esta carpeta se divide en dos archivos: 
+
+1- Input: aqui esta lo necesario que hay que subir al directorio de R para correr el script. 
+      - Seqit.COMMANDS: tiene una breve explicacion sobre el script y te cuenta lo que tienes que hacer y como ejecutarlo. 
+      - Seqit.FUNCTIONS: es el que realiza el script tras tu correr lo que te dice el commmands. 
+      - fasta: secuencias fasta en el mismo orden que el data. 
+      - data: txt utf-8 sacado de la carpeta 1.preparacion_plantilla_excel_data.
+
+
+2- Output: esto es un ejemplo de lo que debe generar el scrips. comprobar bien qu esta todo ok, que no hay una linea rara ni nada. 
