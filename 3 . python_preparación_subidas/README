@@ -1,4 +1,6 @@
 Esta carpeta contienen los scripts necesarios para generar los seqit finales que se van a subir a Genbanktl. 
 
-  En prep_fasta_features_modifiers hay instrucciones separadas para cada archivo. Solo hay que correr los chunks (como mucho cambiar el nombre de entrada). 
+  - En prep_fasta_features_modifiers hay instrucciones separadas para cada archivo. Solo hay que correr los chunks (como mucho cambiar el nombre de entrada). 
   El script esta dividido en mas pasos para poder comprobar cualquier posible error.
+
+  - En output_ejemplos se encuentran los archivos como se deben subir.
