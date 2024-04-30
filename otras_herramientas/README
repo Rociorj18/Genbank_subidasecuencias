@@ -1,0 +1,4 @@
+Scripts: 
+
+  - detectar_id_faltantes_seqit: este fue utilizado debido a que no subimos todas las secuencias de un marcador a la vez, por tanto cuando quisimos subir la otra parte no tenia muy claro cuales si se habian subido y cuales no, y para eso
+    desarolle este scrip que lo que hace es a partir de los seqit generarte txt con sus identificadores, y luego les elimina el seq2_ del identificador y una vez eso puro compara los txt para ver que identificador falta y en que archivo.
